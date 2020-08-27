@@ -1,3 +1,5 @@
+<img src="https://github.githubassets.com/images/modules/site/enterprise/launchpad/hero/transformation-745.jpg" />
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/radenvodka/radenvodka">
